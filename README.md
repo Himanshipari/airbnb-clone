@@ -176,7 +176,8 @@ npm start
 
 ### Home Page
 
-<img width="1920" height="943" alt="image" src="https://github.com/user-attachments/assets/e1af16a5-e23e-49ba-894a-9bf4550ab33e" />
+![Uploading image.png…]()
+
 
 
 ### Listing Details
