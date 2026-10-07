@@ -176,28 +176,31 @@ npm start
 
 ### Home Page
 
-![Uploading image.png…]()
-
+<img width="1902" height="993" alt="Screenshot (2136)" src="https://github.com/user-attachments/assets/7e0f3646-cf6c-4e92-bde4-014f9148d0af" />
 
 
 ### Listing Details
 
-<img width="1877" height="932" alt="image" src="https://github.com/user-attachments/assets/ae393286-6b2d-4682-8257-8c2aeac0e7af" />
+<img width="1892" height="982" alt="Screenshot (2138)" src="https://github.com/user-attachments/assets/637238fd-f8a3-40ec-8b98-5542e78abfed" />
+
 
 
 ### Add New Listing
 
-<img width="1877" height="932" alt="image" src="https://github.com/user-attachments/assets/a9010686-45e8-494d-9a9a-b6bbb25f74c6" />
+<img width="1899" height="987" alt="Screenshot (2139)" src="https://github.com/user-attachments/assets/6f7766b8-f3ff-4025-a0e2-5b6530dd7b18" />
+
 
 
 ### Reviews Section
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/4b6ab8a6-911b-4e9a-9619-7f589f85d10e" />
+<img width="1906" height="986" alt="Screenshot (2140)" src="https://github.com/user-attachments/assets/65c7e7e0-b367-4646-995e-980a95ec98eb" />
+
 
 
 ### Map Integration
 
-<img width="1859" height="918" alt="image" src="https://github.com/user-attachments/assets/22c8a3ac-65c1-4141-ad95-fee71df5a2a0" />
+<img width="1902" height="987" alt="Screenshot (2141)" src="https://github.com/user-attachments/assets/f167840a-2398-405f-ae99-61b5371ebee0" />
+
 
 ---
 
