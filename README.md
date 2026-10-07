@@ -4,7 +4,7 @@ A full-stack Airbnb-inspired web application that allows users to explore destin
 
 ## 🌐 Live Demo
 
-🔗 https://airbnb-clone-mern-aizr.onrender.com/listings
+🔗 airbnb-clone-v07m.onrender.com
 
 ---
 
@@ -233,7 +233,7 @@ Through this project, I strengthened my understanding of:
 
 Computer Science Engineering Student | MERN Stack Developer
 
-🔗 GitHub: https://github.com/Himanshipari
+🔗 GitHub:[ https://github.com/Himanshipari](https://github.com/Himanshipari/airbnb-clone)
 
 🔗 LinkedIn: https://www.linkedin.com/in/himanshiparihar/
 
